@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -x
 set -e
-
+eb init udagram-api --platform Node.js 14 running on 64bit Amazon Linux 2 --region us-east-1
 AWS_CONFIG_FILE=$HOME/.aws/config
 
 echo "[profile default]"                             > $AWS_CONFIG_FILE

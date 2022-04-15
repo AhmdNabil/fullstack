@@ -6,7 +6,7 @@
   "private": true,
   "main": "www/server.js",
   "scripts": {
-    "start": "node server.ts",
+    "start": "node www/server.js",
     "tsc": "tsc",
     "dev": "ts-node-dev --respawn --transpileOnly ./src/server.ts",
     "prod": "tsc && node ./www/server.js",

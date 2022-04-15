@@ -2,8 +2,7 @@
 set -x
 set -e
 eb init udagram-api --platform Node.js --region us-east-1
-eb create udagram-api-dev
-eb use udagram-api-dev
+
 AWS_CONFIG_FILE=$HOME/.aws/config
 
 echo "[profile default]"                             > $AWS_CONFIG_FILE

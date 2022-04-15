@@ -2,7 +2,7 @@
 set -x
 set -e
 eb init udagram-api --platform Node.js --region us-east-1
-eb create udagram-api-env
+eb create udagram-api-dnv
 eb use udagram-api-dev
 AWS_CONFIG_FILE=$HOME/.aws/config
 

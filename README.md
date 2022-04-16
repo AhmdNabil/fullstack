@@ -4,6 +4,9 @@ This application is provided to you as an alternative starter project if you do 
 
 ## Frontend link 
 
+I added a photo in screen shots file 
+I used the app to register, logout, login
+
 http://nabil-udagram.s3-website-us-east-1.amazonaws.com
 
 ## Getting Started

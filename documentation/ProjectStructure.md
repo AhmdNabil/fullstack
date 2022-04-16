@@ -3,7 +3,7 @@
 ##Amazon Servises
 ##ElasticBeanstalk
 * API code is on 
-* API: http://udagram-api-dev.eba-fmvrpatq.us-east-1.elasticbeanstalk.com/
+* API: http://udagram-api-dev.eba-m3vcgdjc.us-east-1.elasticbeanstalk.com/
 
 ## S3 Bucket
 * Bublic s3 bucket
